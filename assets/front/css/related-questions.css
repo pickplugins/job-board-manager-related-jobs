@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.job-bm-related-jobs{}
+.job-bm-related-jobs h3 {
+	margin: 20px 0;
+	font-size: 16px;
+}
+.job-bm-related-jobs .list-items{}
+.job-bm-related-jobs .list-items .item {
+	display: block;
+	padding: 6px 0;
+	font-size: 13px;
+	margin: 10px 0;
+}
+
+
+.job-bm-related-jobs .list-items .item a {
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.job-bm-related-jobs .meta {
+	margin: 10px 0 0 0;
+}
+.job-bm-related-jobs .meta .item {
+	display: inline-block;
+	margin: 0 5px 0 0px;
+	padding: 4px 10px;
+	background: #dddd;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
